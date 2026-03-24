@@ -1,4 +1,4 @@
-# E-commerce-User-Churn-Retention-Analysis
+# User-Churn-Retention-Analysis
 **Meesho-Case-Study**
 
 > An end-to-end product analytics case study identifying why users stop buying, where churn originates, and how much revenue it costs the business.
